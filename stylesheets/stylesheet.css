@@ -23,7 +23,7 @@ h1{
        width: 100%;
    }  
 .p1{
-    position: absolute;
+    position: fixed;
     font-size: 32pt;
      
     margin: 0;
