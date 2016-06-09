@@ -28,6 +28,7 @@ h1{
     top: 35%;                       
     transform: translate(0, -50%) 
     margin: 0;
+    text-align: center;
 }
 div.demo {
     display: table;
