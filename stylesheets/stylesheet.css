@@ -1,9 +1,9 @@
 body{
     font-family: 'VT323';
-    background-color: #FF0DCD;
+    background-color: #384137;
 }
 h1{
-    color: #3FFF0D;
+    color: #3BB873;
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 .underline_text {
@@ -13,7 +13,7 @@ h1{
 }
 .well{
     background-color: #B2008D;
-    border-color: #3FFF0D;
+    border-color: #3BB873;
     padding: 5px 5px 5px 5px;
 }
 .footer{ 
@@ -34,17 +34,17 @@ div.demo {
     width: 100%;
     table-layout: fixed;    /* For cells of equal size */
     font-size: 18pt;
-    color: #3FFF0D;
+    color: #3BB873;
 }
 div.demo span {
     display: table-cell;
     text-align: center;
 }
 menu-link{
-    color: #3FFF0D;
+    color: #3BB873;
 }
 a{
-   color: #3FFF0D;
+   color: #3BB873;
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 a:hover{
@@ -68,6 +68,6 @@ a:hover{
     margin: 0;
 }
 .neon-green{
-    color: #3FFF0D;
+    color: #3BB873;
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
