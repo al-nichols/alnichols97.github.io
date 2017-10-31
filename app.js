@@ -67,5 +67,5 @@ function($scope, $stateParams, posts) {
       upvotes: 0,
     });
     $scope.body = '';
-}
+};
 }]);
